@@ -1,0 +1,37 @@
+
+<?php
+
+include("top.php");
+include ("header.php");
+include("projectnav.php");
+
+?>
+
+
+<h2>A Theatre Company of Teens and Young Adults</h2>
+    
+        <figure class="splashbox">
+            <img class="splash" alt="Coraline Musical" src="images/ITCcoraline.jpg" >
+            
+          
+            <figcaption>Inconceivable Theatre Company Presentation of Coraline</figcaption>
+        </figure>
+        
+
+      
+        <!-- intro paragraph -->
+        <p> The Inconceivable Theatre Company was started in 2014 by a group of friends, 
+            all local Vermont teens/youths, in order to produce a show that they wanted 
+            to do together, which is why our first show, "Dr. Horrible's Sing-A-Long Blog" 
+            happened in August of 2015. We also did a large Shakespearian fundraiser 
+            the spring of 2016 and then another full musical, "Coraline the Musical"
+            in August of 2016.  </p>
+        
+        <!-- paragraph  -->
+        
+        
+     <?php   
+     include ("footer.php");
+     ?>
+    </body>
+</html>
